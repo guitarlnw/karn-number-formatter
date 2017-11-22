@@ -1,0 +1,26 @@
+{
+  "name": "karn-number-formatter",
+  "version": "0.1.0",
+  "description": "test for public npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guitarlnw/karn-number-formatter.git"
+  },
+  "author": "Chonlatit <guitarlnwtc006@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guitarlnw/karn-number-formatter/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "homepage": "https://github.com/guitarlnw/karn-number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
